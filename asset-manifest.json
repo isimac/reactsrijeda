@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isimac/reactsrijeda.git/static/css/main.e6c13ad2.css",
+    "main.js": "/isimac/reactsrijeda.git/static/js/main.96687468.js",
+    "static/js/787.28cb0dcd.chunk.js": "/isimac/reactsrijeda.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/isimac/reactsrijeda.git/index.html",
+    "main.e6c13ad2.css.map": "/isimac/reactsrijeda.git/static/css/main.e6c13ad2.css.map",
+    "main.96687468.js.map": "/isimac/reactsrijeda.git/static/js/main.96687468.js.map",
+    "787.28cb0dcd.chunk.js.map": "/isimac/reactsrijeda.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.96687468.js"
+  ]
+}
